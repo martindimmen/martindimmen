@@ -38,6 +38,7 @@ I'm a passionate developer specializing in Web Development. I love to explore ne
 ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat-square&logo=vite&logoColor=white)
 ![Qt Designer](https://img.shields.io/badge/-Qt_Designer-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ## 📫 How to reach me:
 
