@@ -36,6 +36,10 @@ I'm a passionate developer specializing in Web Development. I love to explore ne
 ### Development Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![JetBrains IDEs](https://img.shields.io/badge/-JetBrains_IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white)
 ![Expo Go](https://img.shields.io/badge/-Expo_Go-1B1F23?style=flat-square&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-B73BFE?style=flat-square&logo=vite&logoColor=white)
 ![Qt Designer](https://img.shields.io/badge/-Qt_Designer-41CD52?style=flat-square&logo=qt&logoColor=white)
